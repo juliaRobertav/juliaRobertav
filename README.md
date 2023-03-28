@@ -2,7 +2,10 @@
 
 
 - ⁂ I’m currently working on systems development apprentice
-- ⁂I’m currently learning: Hardware, Java, Python, HTML, CSS and OS
+- ⁂I’m currently learning: Hardware, Java, Python, HTML, CSS, OS and Docker
 - ⁂ Pronouns: she/her
 
-(https://github.com/xulixnha/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor
+https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor
+https://icongr.am/devicon/java-original.svg?size=128&color=currentColor
+https://icongr.am/devicon/python-original.svg?size=128&color=currentColor
