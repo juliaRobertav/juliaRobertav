@@ -17,6 +17,6 @@
   <a href="https://www.linkedin.com/in/julia-guiraldeli-a11b9b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<iframe src="https://giphy.com/embed/chEwhh3gv7GdW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/embarrassed-toradora-chEwhh3gv7GdW">via GIPHY</a></p>
+
 
 ![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
