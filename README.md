@@ -19,9 +19,8 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&layout=compact&theme=dracula)
 
-https://github-readme-stats.vercel.app/api?username=xulixnha&show_icons=true&theme=dark#gh-dark-mode-only
-https://github.com/xulixnha/github-readme-stats#gh-dark-mode-only
-
+![xulixnha's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulixnha&show_icons=true&theme=radical)
+  
 <div> 
   <a href="https://www.instagram.com/xulixnha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jguiraldeli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
