@@ -17,9 +17,9 @@
 
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&layout=compact&theme=tokyonight)
 
-![xulixnha's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulixnha&show_icons=true&theme=radical)
+![xulixnha's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulixnha&show_icons=true&theme=tokyonight)
   
 <div> 
   <a href="https://www.instagram.com/xulixnha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
