@@ -16,10 +16,10 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=xulixnha&theme=radical&show_icons=true)](https://github.com/xulixnha)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&layout=compact&theme=radical)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&theme=radical&show_icons=true)](https://github.com/xulixnha/github-readme-stats)
 
-![xulixnha's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulixnha&show_icons=true&theme=radical)
   
 <div> 
   <a href="https://www.instagram.com/xulixnha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
