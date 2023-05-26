@@ -2,8 +2,7 @@
 
 
 - ⁂ I’m currently working on systems development apprentice
-- ⁂I’m currently learning: Hardware, Java, Python, HTML, CSS, OS, Docker, Raspberry and MySql
-
+- ⁂I’m currently learning: Hardware, Java, Python, HTML, CSS, JS, OS, Docker, Hardware, Operational systems, MySql and IoT.
 
   <img align="center" alt="Ju-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,6 +12,23 @@
   <img align="center" alt="Ju-Docker" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Ju-Rasp" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" alt="Ju-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Ju-JS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ju-Li" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
+          
+
+- ⁂Tools I've used/I use: Eclipse, PyCharm, IntellijIdea, VsCode, Arduino and Jupyter.
+
+
+  <img align="center" alt="Ju-VS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Ju-Ju" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Ju-Charm" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+  <img align="center" alt="Ju-In" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"  />
+  <img align="center" alt="Ju-Ar" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="Ju-E" height="50" width="50" src="https://img.icons8.com/officexs/16/java-eclipse.png"  />
+          
+          
+          
 
 
 
