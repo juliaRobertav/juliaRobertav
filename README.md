@@ -1,8 +1,8 @@
 ### Hi there ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 
-- ⁂ I’m currently working on systems development apprentice
-- ⁂I’m currently learning: Hardware, Java, Python, HTML, CSS, JS, OS, Docker, Hardware, Operational systems, MySql and IoT.
+- ⁂ I’m currently working on systems development apprentice;
+- ⁂Just a beginner in the programming world looking for new knowledge.
 
   <img align="center" alt="Ju-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +17,7 @@
           
           
 
-- ⁂Tools I've used/I use: Eclipse, PyCharm, IntellijIdea, VsCode, Arduino and Jupyter.
+<!--- ⁂Tools I've used/I use: Eclipse, PyCharm, IntellijIdea, VsCode, Arduino and Jupyter.
 
 
   <img align="center" alt="Ju-VS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -25,7 +25,7 @@
   <img align="center" alt="Ju-Charm" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
   <img align="center" alt="Ju-In" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"  />
   <img align="center" alt="Ju-Ar" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Ju-E" height="50" width="50" src="https://img.icons8.com/officexs/16/java-eclipse.png"  />
+  <img align="center" alt="Ju-E" height="50" width="50" src="https://img.icons8.com/officexs/16/java-eclipse.png"  /> -->
           
           
           
