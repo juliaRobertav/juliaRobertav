@@ -32,9 +32,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=xulixnha&theme=radical&show_icons=true)](https://github.com/xulixnha)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=radical&show_icons=true)](https://github.com/xulixnha)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xulixnha&theme=radical&show_icons=true)](https://github.com/xulixnha/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=radical&show_icons=true)](https://github.com/xulixnha/github-readme-stats)
 
   
 <div> 
