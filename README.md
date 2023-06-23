@@ -1,7 +1,6 @@
 ### Hi there ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 
-- ⁂ I’m currently working on systems development apprentice in Bosch Campinas;
 - ⁂Just a beginner in the programming world looking for new knowledge.
 
   <img align="center" alt="Ju-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
