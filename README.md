@@ -40,4 +40,3 @@
 
 
 
-#![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
