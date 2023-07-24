@@ -27,7 +27,7 @@
   <img align="center" alt="Ju-E" height="50" width="50" src="https://img.icons8.com/officexs/16/java-eclipse.png"  /> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/xulixnha)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav/github-readme-stats)
 
