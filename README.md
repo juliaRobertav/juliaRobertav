@@ -1,6 +1,3 @@
-### Hi there ☆*: .｡. o(≧▽≦)o .｡.:*☆
-
-- ⁂ Welcome! I'm Julia Roberta!
 - ⁂Just a beginner in the programming world looking for new knowledge.
 
   <img align="center" alt="Ju-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,9 +7,14 @@
   <img align="center" alt="Ju-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Ju-MySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Ju-Jupyter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-          
-          
-          
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;I'm+graduating+in+Systems+Developments;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆+:%29)](https://git.io/typing-svg)
+
+
 
 <!--- ⁂Tools I've used/I use: Eclipse, PyCharm, IntellijIdea, VsCode, Arduino and Jupyter.
 
