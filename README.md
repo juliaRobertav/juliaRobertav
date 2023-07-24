@@ -10,9 +10,9 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79D2E6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;I'm+graduating+in+Systems+Developments;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80CEE1&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;I'm+graduating+in+Systems+Developments;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆+:%29)](https://git.io/typing-svg)
 
 
 
@@ -25,10 +25,6 @@
   <img align="center" alt="Ju-In" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"  />
   <img align="center" alt="Ju-Ar" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Ju-E" height="50" width="50" src="https://img.icons8.com/officexs/16/java-eclipse.png"  /> -->
-          
-          
-          
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=radical&show_icons=true)](https://github.com/xulixnha)
@@ -44,4 +40,4 @@
 
 
 
-![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
+#![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
