@@ -12,7 +12,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79D2E6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80CEE1&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;I'm+graduating+in+Systems+Developments;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80CEE1&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;I'm+graduating+in+Systems+Developments;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
 
 
