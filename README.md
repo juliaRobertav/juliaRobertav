@@ -8,7 +8,7 @@
   <img align="center" alt="Ju-MySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Ju-Jupyter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79D2E6&height=120&section=header"/>
 
@@ -31,6 +31,8 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=radical&show_icons=true)](https://github.com/xulixnha/github-readme-stats)
 
+
+
   
 <div> 
   <a href="https://www.instagram.com/xulixnha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,3 +40,5 @@
   <a href="https://www.linkedin.com/in/julia-guiraldeli-a11b9b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79D2E6&height=120&section=footer"/>
