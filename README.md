@@ -1,15 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A9EDA&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5086C1&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;Just+a+beginner+looking+for+new+knowledge;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
 
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav/github-readme-stats)
-
+## Tools and technologies I'm learning
 
   <img align="center" alt="Ju-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   <img align="center" alt="Ju-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,7 +22,7 @@
           
           
 
-
+## Contact me!
   
 <div> 
   <a href="https://www.instagram.com/xulixnha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
