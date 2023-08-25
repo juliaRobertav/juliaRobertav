@@ -9,7 +9,7 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav)
 
 
-## Tools and technologies I'm learning
+## Tools and technologies I use and am learning
 
   <img align="center" alt="Ju-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   <img align="center" alt="Ju-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
