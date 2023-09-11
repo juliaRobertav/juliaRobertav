@@ -6,9 +6,6 @@
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api?username=juliaRobertav&theme=prussian&show_icons=true)](https://github.com/juliaRobertav)
-
-
 ## Tools and technologies i use and am learning
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,eclipse,django,figma,nodejs,github,git) 
