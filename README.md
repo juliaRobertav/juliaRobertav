@@ -6,12 +6,7 @@
 
 
 
-<div align="center" >
-  <img width="45%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
-</div>
-
-
-## Tools and technologies i use and am learning  <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
+## Tools and technologies i use and am learning  <img src="https://media.giphy.com/media/JZcBG7iOpuN7LnArcv/giphy.gif" width="90">
 
 
 
@@ -19,7 +14,7 @@
 
           
           
-## Contact me!   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+## Contact me!   <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="70">
   
 <div> 
   <a href="https://www.instagram.com/juroberta.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,12 +24,14 @@
 
 
   
-![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple)
+![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple)                                     
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2)](https://git.io/streak-stats)                                                          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple)]
 
 
+   <img width="45%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />  
+   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
