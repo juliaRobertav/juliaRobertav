@@ -10,7 +10,7 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,eclipse,django,figma,nodejs,github,git) 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,eclipse,django,figma,nodejs,github,git,react) 
 
           
           
