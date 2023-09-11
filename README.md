@@ -6,8 +6,8 @@
 
 
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/xRLXM0hbVtyYyfNCa4/giphy.gif"  />
+<div align="center" >
+  <img width="50%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 </div>
 
 
