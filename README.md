@@ -11,7 +11,7 @@
 </div>
 
 
-## Tools and technologies i use and am learning
+## Tools and technologies i use and am learning  <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
 
 
 
@@ -19,7 +19,7 @@
 
           
           
-## Contact me!
+## Contact me!   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
   
 <div> 
   <a href="https://www.instagram.com/juroberta.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
