@@ -1,18 +1,22 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A9EDA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5086C1&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;Just+a+beginner+looking+for+new+knowledge;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/xRLXM0hbVtyYyfNCa4/giphy.gif"  />
+</div>
 
 
 ## Tools and technologies i use and am learning
+
+
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,eclipse,django,figma,nodejs,github,git) 
 
           
           
-
 ## Contact me!
   
 <div> 
@@ -22,9 +26,7 @@
 </div>
 
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/xRLXM0hbVtyYyfNCa4/giphy.gif"  />
-</div>
+
 
 
 <div align="center">
