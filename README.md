@@ -30,4 +30,13 @@
 </div>
 
 
+<div align="center">
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&count_private=true&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" alt="Kethelyn Santos github stats" /> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliaRobertav)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A9EDA&height=120&section=footer"/>
