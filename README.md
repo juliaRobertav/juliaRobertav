@@ -7,7 +7,7 @@
 
 
 <div align="center" >
-  <img width="50%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+  <img width="45%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 </div>
 
 
