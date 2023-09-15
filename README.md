@@ -6,7 +6,7 @@
 
 
 
-## Tools and technologies i use and am learning  <img src="https://media.giphy.com/media/JZcBG7iOpuN7LnArcv/giphy.gif" width="90">
+## Tools and technologies i use and am learning  <img src="https://media.giphy.com/media/JZcBG7iOpuN7LnArcv/giphy.gif" width="70">
 
 
 
@@ -14,7 +14,7 @@
 
           
           
-## Contact me!   <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="70">
+## Contact me!   <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="45">
 
 
   
