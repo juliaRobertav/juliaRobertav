@@ -5,13 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;Just+a+beginner+looking+for+new+knowledge;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
   
-![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple)  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" />     
+![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple)     
 
+<img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" />  
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple" />  <img  align="right" width="35%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />   
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple" /> 
 
 ## Contact me!   <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="45">
  
