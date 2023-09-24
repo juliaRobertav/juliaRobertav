@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+,+My+name+is+Julia+Roberta;I'm+18+years+old;Just+a+beginner+looking+for+new+knowledge;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
 
-## Contact me!   <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="45">
+## Contact me!
+ <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="45"> 
  
 <div> 
   <a href="https://www.instagram.com/juroberta.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
