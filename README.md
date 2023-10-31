@@ -6,14 +6,8 @@
 <br>
 
 
- <div align="center">
- <img src="https://media.giphy.com/media/lTkUUDu83k48Z9pYRs/giphy.gif" width="80">
- <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="60"> 
- <img src="https://media.giphy.com/media/P7IMPyMQoEtytT3Y7k/giphy.gif" width="90"> 
- </div>
-
-
 <div align="center"> 
+
   <a href="https://www.instagram.com/juroberta.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jurovguirald@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/julia-guiraldeli-a11b9b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
