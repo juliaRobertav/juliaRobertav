@@ -25,6 +25,9 @@
 
 <br>
 
-https://www.buymeacoffee.com/jurovgui
+  <a href="https://www.buymeacoffee.com/jurovgui" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" >
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
