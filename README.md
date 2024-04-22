@@ -25,12 +25,16 @@
 
 <br>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,azure,django,c,eclipse,fastapi,java,notion,py,vscode" />
+  </a>
+</p>
 
  <br>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="35" width="110" />
+  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="35" width="105" />
 </a>
 
 <br>
