@@ -26,14 +26,10 @@
 <br>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" width="100" />
+  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="35" width="110" />
 </a>
 
 <br>
-
-  <a href="https://www.buymeacoffee.com/jurovgui" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="30" width="95" >
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
