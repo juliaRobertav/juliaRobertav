@@ -25,6 +25,12 @@
 
 <br>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" />
+</a>
+
+<br>
+
   <a href="https://www.buymeacoffee.com/jurovgui" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" >
 
