@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,django,c,eclipse,fastapi,java,notion,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,azure,django,c,mysql,fastapi,java,notion,py" />
   </a>
 </p>
 
