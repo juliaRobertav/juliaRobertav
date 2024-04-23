@@ -25,11 +25,13 @@
 
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />
-  </a>
-</p>
+|<h3 align="center"> technologies that i am developing </h3>|      
+| ------------------------------------------------------------------------------------------|
+|<p align="center">|
+|<a href="https://skillicons.dev">|
+|<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />|
+|</a>|
+|</p>|
 
  <br>
 
