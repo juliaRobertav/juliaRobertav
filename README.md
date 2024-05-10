@@ -16,10 +16,14 @@
 
 <br>
 
-
+<!--
 #### [Clique aqui para ver minhas estatísticas completas](https://profile-summary-for-github.com/user/juliaRobertav). 
+-->
 
-<div align="center">
+[![JuliaRobertav GitHub Profile](https://profile-summary-for-github.com/user/juliaRobertav)](https://profile-summary-for-github.com/user/juliaRobertav)
+
+
+<div align="center" width=500px>
  
 | STATS | LANGUAGES | STREAKS |
 | ------------ | ------------- |  ------------- |
@@ -40,17 +44,18 @@
 
  <br>
 
-<!--
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
-</a>
-
-<br>
--->
-
 
 <div  align="center"">
     <img src="https://media.giphy.com/media/UjB7puB4mk1thG24Yc/giphy.gif?cid=790b7611xxgp7j5u9cb9sk1brueov3vzq7rmv46onz7ww50n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coraline" style="width: 300px; border: 3px solid black;" />
+</div>
+
+<br>
+
+
+<div  align="center"">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
+  </a>
 </div>
 
 
