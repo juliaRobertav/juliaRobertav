@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <h4>preferred tech</h4>
+  <h4>tech preferences</h4>
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
