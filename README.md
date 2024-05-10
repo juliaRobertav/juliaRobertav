@@ -29,7 +29,7 @@
 
 <br>
 
-###preferred tech
+### preferred tech
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />
