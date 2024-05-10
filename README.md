@@ -20,14 +20,12 @@
 #### [Clique aqui para ver minhas estatísticas completas](https://profile-summary-for-github.com/user/juliaRobertav). 
 -->
 
-[![JuliaRobertav GitHub Profile](https://profile-summary-for-github.com/user/juliaRobertav)](https://profile-summary-for-github.com/user/juliaRobertav)
-
 
 <div align="center" width=500px>
  
-| STATS | LANGUAGES | STREAKS |
-| ------------ | ------------- |  ------------- |
-| ![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple" /> |  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" /> |
+| STATS | LANGUAGES | STREAKS | PROFILE |
+| ------------ | ------------- |  ------------- | ------------- |
+| ![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple" /> |  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" /> | <img src="https://profile-summary-for-github.com/user/juliaRobertav" /> |
 
 </div>
 
@@ -57,6 +55,8 @@
     <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
   </a>
 </div>
+
+<br>
 
 
 <!--
