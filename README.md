@@ -35,6 +35,8 @@
 
  <br>
 
+<img src="https://api.githubtrends.io/user/svg/juliaRobertav/repos?time_range=one_year&group=other&theme=dark" />
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
 </a>
