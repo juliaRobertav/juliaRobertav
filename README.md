@@ -25,7 +25,7 @@
 
 <br>
 
-|<h3 align="center"> technologies that i am developing </h3>|      
+|<h3 align="center"> preferred tech </h3>|      
 | ------------------------------------------------------------------------------------------|
 |<p align="center">|
 |<a href="https://skillicons.dev">|
