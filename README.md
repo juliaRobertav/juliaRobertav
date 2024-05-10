@@ -1,5 +1,6 @@
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=header"/>
-
+-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Julia+Roberta;I'm+19+years+old;Just+a+beginner+looking+for+new+knowledge;Be+Welcome!+☆*:+..o(≧▽≦)o.｡+:*☆)](https://git.io/typing-svg)
 
@@ -15,6 +16,9 @@
 
 <br>
 
+
+#### [Clique aqui para ver minhas estatísticas completas](https://profile-summary-for-github.com/user/juliaRobertav). 
+
 <div align="center">
  
 | STATS | LANGUAGES | STREAKS |
@@ -25,24 +29,29 @@
 
 <br>
 
-|<h3 align="center"> preferred tech </h3>|      
-| ------------------------------------------------------------------------------------------|
-|<p align="center">|
-|<a href="https://skillicons.dev">|
-|<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />|
-|</a>|
-|</p>|
+###preferred tech
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />
+</a>
+</p>
 
  <br>
 
-<img src="https://profile-summary-for-github.com/user/juliaRobertav" />
-
-
+<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
 </a>
 
 <br>
+-->
 
 
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/UjB7puB4mk1thG24Yc/giphy.gif?cid=790b7611xxgp7j5u9cb9sk1brueov3vzq7rmv46onz7ww50n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coraline" style="width: 300px; border: 3px solid black;" />
+</div>
+
+
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
+-->
