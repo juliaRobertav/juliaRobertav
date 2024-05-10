@@ -29,7 +29,9 @@
 
 <br>
 
-### preferred tech
+<div align="center">
+  <h4>preferred tech</h4>
+</div>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,notion,py" />
@@ -47,7 +49,7 @@
 -->
 
 
-<div style="text-align: center;">
+<div  align="center"">
     <img src="https://media.giphy.com/media/UjB7puB4mk1thG24Yc/giphy.gif?cid=790b7611xxgp7j5u9cb9sk1brueov3vzq7rmv46onz7ww50n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coraline" style="width: 300px; border: 3px solid black;" />
 </div>
 
