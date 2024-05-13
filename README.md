@@ -32,11 +32,22 @@
 <br>
 
 <div align="center">
+  <h4>tech preference</h4>
+</div>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,sqlite,notion" />
+</a>
+</p>
+
+<br>
+ 
+<div align="center">
   <h4>tech i'm interested in</h4>
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,azure,redhat,notion" />
+<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,nodejs,spring" />
 </a>
 </p>
 
