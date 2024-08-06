@@ -36,18 +36,18 @@
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,sqlite,notion" />
+<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,sqlite,notion,nodejs" />
 </a>
 </p>
 
 <br>
  
 <div align="center">
-  <h4>tech i'm interested in</h4>
+  <h4>learning</h4>
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,nodejs,spring" />
+<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,spring" />
 </a>
 </p>
 
