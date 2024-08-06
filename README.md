@@ -25,7 +25,7 @@
  
 | STATS | LANGUAGES | STREAKS | PROFILE   CLICK HERE |
 | ------------ | ------------- |  ------------- | ------------- |
-| ![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=midnight-purple) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=midnight-purple" /> |  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" /> | <img src="https://profile-summary-for-github.com/user/juliaRobertav" /> |
+| ![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=github_dark) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=github_dark" /> |  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=modern-lilac2" /> | <img src="https://profile-summary-for-github.com/user/juliaRobertav" /> |
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div  align="center"">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
+    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=1&icon=8&pretty=true" height="30"/>
   </a>
 </div>
 
@@ -72,4 +72,13 @@
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=11&icon=9&pretty=true" height="30" />
+  </a>
+
+   <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=6&icon=8&pretty=true" height="30"/>
+  </a>
+  
 -->
