@@ -36,7 +36,7 @@
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,sqlite,notion,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,django,c,mysql,fastapi,java,py,sqlite,notion" />
 </a>
 </p>
 
@@ -47,7 +47,7 @@
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,spring,kali" />
+<img src="https://skillicons.dev/icons?i=nodejs,azure,redhat,docker,gitlab,linux,spring,kali" />
 </a>
 </p>
 
