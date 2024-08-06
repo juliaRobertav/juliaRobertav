@@ -47,7 +47,7 @@
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,spring" />
+<img src="https://skillicons.dev/icons?i=azure,redhat,docker,gitlab,linux,spring,kali" />
 </a>
 </p>
 
