@@ -23,8 +23,8 @@
 
 <div align="center" width=500px>
  
-| STATS | LANGUAGES | STREAKS | PROFILE   CLICK HERE |
-| ------------ | ------------- |  ------------- | ------------- |
+| STATS | LANGUAGES | STREAKS | 
+| ------------ | ------------- |  ------------- | 
 | ![JuliaRobertav GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaRobertav&show_icons=true&theme=github_dark) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaRobertav&theme=github_dark" /> |  <img align="left" src="https://streak-stats.demolab.com?user=juliaRobertav&theme=transparent" /> | <img src="https://profile-summary-for-github.com/user/juliaRobertav" /> |
 
 </div>
