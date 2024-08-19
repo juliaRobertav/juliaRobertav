@@ -43,11 +43,11 @@
 <br>
  
 <div align="center">
-  <h4>learning</h4>
+  <h4>want to learning</h4>
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,azure,redhat,docker,gitlab,linux,spring,kali" />
+<img src="https://skillicons.dev/icons?i=nodejs,azure,redhat,docker,gitlab,linux,spring,kali,mongo,go" />
 </a>
 </p>
 
