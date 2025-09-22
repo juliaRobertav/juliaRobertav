@@ -61,14 +61,6 @@
 <br>
 
 
-<div  align="center"">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=juliaRobertav&label=Profile%20Views&color=1&icon=8&pretty=true" height="30"/>
-  </a>
-</div>
-
-<br>
-
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4c007d_custom_gradient&height=120&section=footer"/>
